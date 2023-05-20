@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **MERN , Flutter**
 
-- 📫 How to reach me **chaudhari.chinmay12345@gmail.com**
-
 - ⚡ Fun fact **I think I am weird**
 
 <h3 align="left">Connect with me:</h3>
